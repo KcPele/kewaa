@@ -5,17 +5,17 @@ const FAQ = () => {
   const [activeIndex, setActiveIndex] = React.useState(null);
   const faqItems = [
     {
-      question: "What is Tailwind CSS?",
+      question: "Why should I join Kewaa?",
       answer:
         "Tailwind CSS is a utility-first CSS framework that makes it easy to create custom designs without writing any CSS.",
     },
     {
-      question: "How do I install Tailwind CSS?",
+      question: "How can I invest on Kewaa?",
       answer:
         "You can install Tailwind CSS using npm or yarn. First, create a new project and navigate to the project directory in your terminal. Then, run the command `npm install tailwindcss` or `yarn add tailwindcss`.",
     },
     {
-      question: "What browsers does Tailwind CSS support?",
+      question: "Is there a limit to the amount I can invest on Kewaa?",
       answer:
         "Tailwind CSS supports all modern browsers, including Chrome, Firefox, Safari, and Edge.",
     },

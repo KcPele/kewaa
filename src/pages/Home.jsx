@@ -6,6 +6,7 @@ import {
   Problems,
   LatestCollection,
   FAQ,
+  Footer,
 } from "../components";
 
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
       <Problems />
       <LatestCollection />
       <FAQ />
+      <Footer />
     </div>
   );
 };
